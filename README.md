@@ -1,7 +1,6 @@
 # WeDo
 
-## Project Management Tools
-For project management, we used Jira - https://capstone399.atlassian.net/jira/software/projects/WEDO/boards/1
+[![Project Infomation Poster](https://github.com/blankv15/WeDoApp/blob/main/assets/team33-presentation-poster_compressed_page-0001%2B2023%2B11%2B8%2B0%2B27%2B48%2B235.jpeg)]
 
 ## Description
 WeDo is a mobile application(IOS/Android) designed to help people connect through activities. WeDo provides a platform where registered users can join and create events which can range from volunteer work and sports games to online gaming sessions and mahjong. The platform aims to help people of all backgrounds engage in the community and grow lasting connections.
